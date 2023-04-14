@@ -1,0 +1,63 @@
+.lesProduits {
+    margin: 4%;
+    /* background-color:rgb(43, 226, 153); */
+    display: flex;
+    justify-content: space-around;
+
+}
+.d-flex img{
+    padding: 1%;
+}
+.card {
+    background-color: #a1c679;
+}
+.bi-cart-fill {
+    margin: 3%;
+}
+.panier{
+    display: block;
+    margin: 6%;
+}
+.panier h4{
+    margin: -4px;
+    padding: 0;
+}
+
+.card{
+    padding-bottom: 0;
+}
+.icon{
+    display: flex;
+    justify-content: start;
+    padding: 1%;
+}
+.entete{
+    display: flex;
+     justify-content:space-around; 
+}
+.entete .prix{
+    margin-left: 40%;
+}
+.bi{
+    padding: 3px;
+}
+.btn-outline-danger{
+margin: 5%;
+margin-left: 80%;
+    }
+.card{
+    padding-bottom: 0;
+    padding: 2%;
+}
+.btn-primary{
+    visibility: hidden;
+
+}
+.total{
+    margin: 40px;
+    margin-left: 80%;
+    background-color:  rgba(59, 30, 156, 0.271);
+    padding: 1%;
+    border-radius: 6%;
+    
+}
